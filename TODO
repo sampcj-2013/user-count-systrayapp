@@ -1,0 +1,10 @@
++---------------------------------------------------------+
+| TODO                                                    |
++---------------------------------------------------------+
+
+// General
+
+* Change hard-coded URL string size to be managed more safely
+* Change hard-coded default channel on start-up
+	- appears unnecessarily in two separate locations
+* Clean up code to use C++ memory-allocation only!

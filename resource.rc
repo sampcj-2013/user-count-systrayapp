@@ -1,0 +1,4 @@
+#include "resource.h"
+
+//ICO1 ICON DISCARDABLE "snoopy.ico"
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "Application.manifest"
