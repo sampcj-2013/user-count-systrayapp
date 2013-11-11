@@ -1,3 +1,13 @@
+/**
+ * user-count-systrayapp
+ *
+ *  Copyright 2013 by Sam Carroll <sampcj.2013@gmail.com>
+ *
+ *  Licensed under GNU General Public License 3.0 or later.
+ *  Some rights reserved. See COPYING, AUTHORS.
+ *
+ */
+
 #include "resource.h"
 
 //ICO1 ICON DISCARDABLE "snoopy.ico"
